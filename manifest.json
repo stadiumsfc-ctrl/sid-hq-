@@ -1,6 +1,6 @@
 {
-  "name": "Sid HQ — Daily Command Centre",
-  "short_name": "Sid HQ",
+  "name": "Arun — Daily Command Centre",
+  "short_name": "Arun",
   "description": "Daily task and reminder system for Stadium FC, Klarity and personal areas",
   "start_url": "/index.html",
   "display": "standalone",
